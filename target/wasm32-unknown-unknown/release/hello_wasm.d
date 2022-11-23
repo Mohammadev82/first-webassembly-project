@@ -1,0 +1,1 @@
+/mnt/c/Users/moonj/OneDrive/Documents/Code/Android/Project1/rust/hello_world/src/hello-wasm/target/wasm32-unknown-unknown/release/hello_wasm.wasm: /mnt/c/Users/moonj/OneDrive/Documents/Code/Android/Project1/rust/hello_world/src/hello-wasm/src/lib.rs
